@@ -1,0 +1,9 @@
+//pub mod full_name;
+//pub mod email_address;
+//pub mod telephone;
+//pub mod postal_address;
+//pub mod contact_information;
+//pub mod tenant_id;
+//pub mod enablement;
+//pub mod person;
+pub mod user;
